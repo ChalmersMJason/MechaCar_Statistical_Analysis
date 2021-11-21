@@ -17,3 +17,7 @@ Lot Summary
 
 ![image](https://user-images.githubusercontent.com/85259984/142769201-e1db7742-8039-4405-b6e9-2d00df48fcf9.png)
 
+## T-Tests on Suspension Coils
+
+![image](https://user-images.githubusercontent.com/85259984/142769468-fb21b85c-eda4-48fe-bd16-9c3531e6c216.png)
+
