@@ -7,3 +7,13 @@ Module 15
 
 ![image](https://user-images.githubusercontent.com/85259984/142768742-b0868267-67d1-4a9d-a0ba-fb7068ed0c06.png)
 
+## Summary Statistics on Suspension Coils
+
+Total Summary
+
+![total_summary](https://user-images.githubusercontent.com/85259984/142769174-6e6900e4-e26a-4737-9b86-f40f3eb77112.png)
+
+Lot Summary
+
+![image](https://user-images.githubusercontent.com/85259984/142769201-e1db7742-8039-4405-b6e9-2d00df48fcf9.png)
+
